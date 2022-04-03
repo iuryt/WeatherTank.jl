@@ -1,3 +1,3 @@
-# OceanGyreTank.jl
+# WeatherTank.jl
 
 Work in progress.
